@@ -198,6 +198,38 @@ hr {
 
 /*rem = da el tamaño de los iconos */
 .links a i {
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
+/* Footer link*/
+.footer-links {
+    background: #2f3640;
+    color: #616161;
+    font-size: 12px;
+    padding: 35px 0;
+}
+
+.footer-container{
+    display: grid;
+    /*Número de columnas a dividir*/
+    grid-template-columns: repeat(4, 1fr);
+    /*espaciado interno entre columnas*/
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center; 
+    
+}
+.footer-container ul {
+    margin: 0 auto;
+}
+.footer-container ul li{
+    line-height: 2.2;
+}
+.footer{
+    background: #2f3640;
+    color: #616161;
+    font-size: 12px;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}

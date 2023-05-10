@@ -1,4 +1,13 @@
 https://www.youtube.com/watch?v=Q2imkhmhOFo&ab_channel=Fazt
 overapi: https://overapi.com/css
 leetcode.com
+Este documento lo vamos a dejar por fines practicos
+no tiene nada que ver con el proyecto
+Publicity publicidad.
+en git branch es igual a sacar una rama independiente de la rama principal
+se puede seguir haciendo commit sobre esa rama que uno trabaja
+luego de haber terminado lo que se necesita se puede insertar lo que uno trabajo
+utilizando el comando merge en la rama main que es la principal.
+
+
 
